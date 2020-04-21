@@ -1,17 +1,15 @@
-## Welcome to GitHub Pages
-## 欢迎到github主页
-试试能添加标题吗?
+## 欢迎到github页面
 
-You can use the [editor on GitHub](https://github.com/translee/translee.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.好的。
+你可以使用 [在github上编辑](https://github.com/translee/translee.github.io/edit/master/README.md) Markdown文件里的内容来保存和预览你的网页。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+你在任何时候提交到这个仓库，Github将会运行 [Jekyll](https://jekyllrb.com/) 用你的Markdown文件里的内容在你的网页来重建页面。
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown是一种轻量级且易用的语法，它可以个性化展现你的文字。它包括以下约定: 
 
 ```markdown
-Syntax highlighted code block
+轻量级代码块语法
 
 # Header 1
 ## Header 2
@@ -28,12 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+获取更多细节 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/translee/translee.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+你的页面将使用你在 [repository settings](https://github.com/translee/translee.github.io/settings) 选择的Jekyll theme提供的布局和风格。背景的名字保存在Jekyll `_config.yml` 配置文件内。
 
-### Support or Contact
+### 支持或联系
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+对此页面有疑问？查看我们的 [documentation](https://help.github.com/categories/github-pages-basics/) 或者 [contact support](https://github.com/contact) ，我们将会帮助你解决。
