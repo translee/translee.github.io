@@ -1,4 +1,9 @@
-## 欢迎到github页面
+## 欢迎到李辉的个人主页
+### 我的github项目仓库
+
+[常用数值分析算法Python实现](http:)
+
+[《Python编程从入门到实践》课后题答案](https://github.com/translee/learn_python_answers)
 
 你可以使用 [在github上编辑](https://github.com/translee/translee.github.io/edit/master/README.md) Markdown文件里的内容来保存和预览你的网页。
 
